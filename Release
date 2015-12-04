@@ -1,0 +1,9 @@
+Origin: MortuuS's Repository
+Label: MortuuS's Repository
+Suite: stable
+Version: 1.0
+Codename: MortuuS
+Architectures: iphoneos-arm
+Components: main
+Description: MortuuS's Repository
+MD5Sum:
