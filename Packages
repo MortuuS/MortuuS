@@ -1,0 +1,15 @@
+Package: com.mortuus.horizonfix
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MortuuS <jdk@live.nl>
+Depends: mobilesubstrate
+Filename: debs//com.mortuus.horizonfix_1.0.2_iphoneos-arm.deb
+Size: 59714
+MD5sum: cf8d60a2a503b7e2645fa437d1586793
+SHA1: 9f10ddeb3b1e1673215452889b03dfb6b6fd4ea8
+SHA256: 081c33b30492ab2ac4db04d257e2e341dd9b4bbc8349611eeb52d3a3bc20610d
+Section: Tweaks
+Description: JB fix Ziggo/UPC Horizon app
+Author: MortuuS <jdk@live.nl>
+Depiction: 
+Name: HorizonFix
